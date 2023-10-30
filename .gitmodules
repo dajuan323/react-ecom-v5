@@ -1,0 +1,6 @@
+[submodule "dotnet"]
+	path = dotnet
+	url = https://github.com/dajuan323/reactv5-backend
+[submodule "react"]
+	path = react
+	url = https://github.com/dajuan323/reactv5-frontend
